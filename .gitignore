@@ -1,0 +1,55 @@
+# Media and Archives
+*.mp4
+*.wav
+*.mp3
+*.mov
+*.mkv
+*.avi
+*.webm
+*.flac
+*.aac
+*.ogg
+*.m4a
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+*.iso
+*.blend
+# Python / Dev
+__pycache__/
+*.py[cod]
+.env
+.env.local
+venv/
+env/
+.venv/
+.pytest_cache/
+*.log
+Thumbs.db
+.DS_Store
+*.tmp
+*.bak
+node_modules/
+
+# Added by Git Repo Creator
+*.png
+*.jpg
+*.jpeg
+# AI Models
+*.bin
+*.safetensors
+*.ckpt
+*.pth
+*.pt
+model_cache/
+models/
+checkpoints/
+
+# Added by Git Repo Creator
+# Media, Archives, and AI Models
+*.flv
+*.wmv
+# GitHub Actions
+.github/
